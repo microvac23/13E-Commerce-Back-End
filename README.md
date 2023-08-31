@@ -13,12 +13,19 @@ Given a functional Express.js API...
 * When I open API GET routes in Insomnia Core for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON.
 * When I test API POST, PUT, and DELETE routes in Insomnia Core then I am able to successfully create, update, and delete data in my database.
 
+## Technologies Used
+
+MySQL for VSCODE: https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2
+<br> MySql12: https://dev.mysql.com/
+<br> Sequelize: https://www.npmjs.com/package/sequelize
+<br> Insomnia: https://insomnia.rest/download
+
 ## Contributions
 
 Starter code located: [here](https://github.com/coding-boot-camp/fantastic-umbrella)
 
 ## Examples
 
-Tutorial Video:
+Tutorial Video: https://drive.google.com/file/d/1H_4rd8_IprUPHDfR7GfhXlGv9THOSr-V/view
 
-Screenshot:
+Screenshot: ![alt-text](./images/Screenshot%202023-08-30%20233824.png)
